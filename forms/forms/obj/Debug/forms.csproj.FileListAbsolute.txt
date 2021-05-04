@@ -6,3 +6,11 @@ C:\Users\Ucenik\Desktop\NikolinaSuto4c\IzbornikView2\forms\forms\obj\Debug\forms
 C:\Users\Ucenik\Desktop\NikolinaSuto4c\IzbornikView2\forms\forms\obj\Debug\forms.csproj.GenerateResource.Cache
 C:\Users\Ucenik\Desktop\NikolinaSuto4c\IzbornikView2\forms\forms\obj\Debug\forms.exe
 C:\Users\Ucenik\Desktop\NikolinaSuto4c\IzbornikView2\forms\forms\obj\Debug\forms.pdb
+C:\Users\Ucenik\Documents\GitHub\IzbornikView2\forms\forms\obj\Debug\forms.exe
+C:\Users\Ucenik\Documents\GitHub\IzbornikView2\forms\forms\obj\Debug\forms.pdb
+C:\Users\Ucenik\Documents\GitHub\IzbornikView2\forms\forms\bin\Debug\forms.exe
+C:\Users\Ucenik\Documents\GitHub\IzbornikView2\forms\forms\bin\Debug\forms.pdb
+C:\Users\Ucenik\Documents\GitHub\IzbornikView2\forms\forms\obj\Debug\forms.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\Documents\GitHub\IzbornikView2\forms\forms\obj\Debug\forms.Form1.resources
+C:\Users\Ucenik\Documents\GitHub\IzbornikView2\forms\forms\obj\Debug\forms.Properties.Resources.resources
+C:\Users\Ucenik\Documents\GitHub\IzbornikView2\forms\forms\obj\Debug\forms.csproj.GenerateResource.Cache
