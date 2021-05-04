@@ -18,7 +18,7 @@ namespace forms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Pozdrav, Ane!!!!");
+            MessageBox.Show("Pozdrav,"+textBox1.Text);
         }
     }
 }
